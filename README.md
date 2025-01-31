@@ -1,6 +1,6 @@
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
 ![My Banner](https://ih0.redbubble.net/cover.2424876.2400x600.jpg)
+
 
 ## 👋 Hi, I’m @Viktor0317  
 - 👀 I’m interested in **Web Development, AI, and Open Source**  
@@ -10,10 +10,14 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love longboarding and playing basketball!
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor0317&layout=compact&theme=radical)
 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
 
 
