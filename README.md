@@ -1,8 +1,5 @@
 ![My Banner](https://ih0.redbubble.net/cover.2424876.2400x600.jpg)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 ## 👋 Hi, I’m @Viktor0317  
 - 👀 I’m interested in **Web Development, AI, and Open Source**  
 - 🌱 I’m currently learning **React, Python, and Machine Learning**  
@@ -12,7 +9,7 @@
 - ⚡ Fun fact: I love longboarding and playing basketball!
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical) ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
