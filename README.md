@@ -1,6 +1,6 @@
-![My Banner](https://ih0.redbubble.net/cover.2424876.2400x600.jpg)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![My Banner](https://ih0.redbubble.net/cover.2424876.2400x600.jpg)
 
 ## 👋 Hi, I’m @Viktor0317  
 - 👀 I’m interested in **Web Development, AI, and Open Source**  
@@ -10,21 +10,10 @@
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love longboarding and playing basketball!
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical" width="45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viktor0317&theme=radical" width="45%">
-</div>
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical) 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Viktor0317&layout=compact&theme=radical)
 
-![Metrics](https://metrics.lecoq.io/Viktor0317?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1)
 
 
 
