@@ -5,11 +5,18 @@
 ## 👋 Hi, I’m @Viktor0317  
 - 👀 I’m interested in **Web Development, AI, and Open Source**  
 - 🌱 I’m currently learning **React, Python, and Machine Learning**  
-- 💞️ I’m looking to collaborate on **cool open-source projects**             ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical)
+- 💞️ I’m looking to collaborate on **cool open-source projects**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikola-brajkovic-67730835/) | [Email](nikola.brajkovic88@gmail.com)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love longboarding and playing basketball!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Viktor0317&theme=radical" width="45%">
+</div>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Viktor0317&show_icons=true&theme=radical) 
 
