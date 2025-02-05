@@ -2,13 +2,18 @@
 ![My Banner](https://ih0.redbubble.net/cover.2424876.2400x600.jpg)
 
 
-## 👋 Hi, I’m @Viktor0317  
-- 👀 I’m interested in **Web Development, AI, and Open Source**  
-- 🌱 I’m currently learning **React, Python, and Machine Learning**  
-- 💞️ I’m looking to collaborate on **cool open-source projects**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nikola-brajkovic-67730835/) | [Email](nikola.brajkovic88@gmail.com)  
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love longboarding and playing basketball!
+## Hi, I'm Nikola
+I am passionate about Web Development, AI, and Open Source.
+Currently, I am studying at MasterSchool's Software Development program, where I am learning HTML, CSS, Python, and SQL.
+
+I am always looking for opportunities to collaborate on interesting open-source projects and expand my knowledge.
+
+How to reach me: LinkedIn | Email
+
+Pronouns: He/Him
+Fun fact: I enjoy longboarding and playing basketball.
+
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Viktor0317&theme=radical)
 
